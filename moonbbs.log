@@ -1164,3 +1164,151 @@
 2017-11-06 19:29:35,855 INFO start crawling
 2017-11-06 19:29:35,855 INFO start crawling
 2017-11-06 19:29:35,855 INFO start crawling
+2017-11-08 10:11:22,825 INFO interval time setted as 5
+2017-11-08 10:11:22,825 INFO interval time setted as 5
+2017-11-08 10:11:22,825 INFO interval time setted as 5
+2017-11-08 10:11:22,825 INFO interval time setted as 5
+2017-11-08 10:11:22,825 INFO interval time setted as 5
+2017-11-08 10:11:22,825 INFO opening file ./wishlist.txt
+2017-11-08 10:11:22,825 INFO opening file ./wishlist.txt
+2017-11-08 10:11:22,825 INFO opening file ./wishlist.txt
+2017-11-08 10:11:22,825 INFO opening file ./wishlist.txt
+2017-11-08 10:11:22,825 INFO opening file ./wishlist.txt
+2017-11-08 10:11:22,826 INFO getting the keyword list
+2017-11-08 10:11:22,826 INFO getting the keyword list
+2017-11-08 10:11:22,826 INFO getting the keyword list
+2017-11-08 10:11:22,826 INFO getting the keyword list
+2017-11-08 10:11:22,826 INFO getting the keyword list
+2017-11-08 10:11:22,999 ERROR email server setup failed, quiting....
+2017-11-08 10:11:22,999 ERROR email server setup failed, quiting....
+2017-11-08 10:11:22,999 ERROR email server setup failed, quiting....
+2017-11-08 10:11:22,999 ERROR email server setup failed, quiting....
+2017-11-08 10:11:22,999 ERROR email server setup failed, quiting....
+2017-11-08 13:50:24,034 INFO opening file ./wishlist.txt
+2017-11-08 13:50:50,478 INFO opening file ./wishlist.txt
+2017-11-08 13:51:12,737 INFO opening file ./wishlist.txt
+2017-11-08 13:51:12,942 INFO opening file ./wishlist.txt
+2017-11-08 13:51:31,328 INFO opening file ./wishlist.txt
+2017-11-08 13:51:34,071 ERROR cannot write in file
+2017-11-08 13:51:34,071 ERROR cannot write in file
+2017-11-08 13:51:46,750 INFO opening file ./wishlist.txt
+2017-11-08 13:53:06,834 INFO opening file ./wishlist.txt
+2017-11-08 14:58:50,607 INFO opening file ./wishlist.txt
+2017-11-08 14:58:50,851 INFO opening file ./wishlist.txt
+2017-11-08 14:59:01,238 INFO opening file ./wishlist.txt
+2017-11-08 14:59:04,161 INFO getting the keyword list
+2017-11-08 14:59:04,161 INFO getting the keyword list
+2017-11-08 14:59:47,127 INFO opening file ./wishlist.txt
+2017-11-08 14:59:56,447 INFO getting the keyword list
+2017-11-08 14:59:56,447 INFO getting the keyword list
+2017-11-08 15:00:17,413 INFO getting the keyword list
+2017-11-08 15:00:17,413 INFO getting the keyword list
+2017-11-08 15:04:21,743 INFO opening file ./wishlist.txt
+2017-11-08 15:04:31,149 INFO opening file ./wishlist.txt
+2017-11-08 15:04:34,261 INFO getting the keyword list
+2017-11-08 15:04:34,261 INFO getting the keyword list
+2017-11-08 15:04:38,820 INFO getting the keyword list
+2017-11-08 15:04:38,820 INFO getting the keyword list
+2017-11-08 15:05:03,864 INFO opening file ./wishlist.txt
+2017-11-08 15:05:07,439 INFO getting the keyword list
+2017-11-08 15:05:07,439 INFO getting the keyword list
+2017-11-08 15:05:22,282 INFO opening file ./wishlist.txt
+2017-11-08 15:05:26,384 INFO getting the keyword list
+2017-11-08 15:05:26,384 INFO getting the keyword list
+2017-11-08 15:05:55,838 INFO opening file ./wishlist.txt
+2017-11-08 15:05:58,689 INFO getting the keyword list
+2017-11-08 15:05:58,689 INFO getting the keyword list
+2017-11-08 15:06:07,220 INFO opening file ./wishlist.txt
+2017-11-08 15:06:09,838 INFO getting the keyword list
+2017-11-08 15:06:09,838 INFO getting the keyword list
+2017-11-08 15:06:28,445 INFO getting the keyword list
+2017-11-08 15:06:28,445 INFO getting the keyword list
+2017-11-08 15:06:28,445 ERROR cannot write in file
+2017-11-08 15:06:28,445 ERROR cannot write in file
+2017-11-08 15:06:36,401 INFO opening file ./wishlist.txt
+2017-11-08 15:06:36,614 INFO opening file ./wishlist.txt
+2017-11-08 15:06:38,861 INFO getting the keyword list
+2017-11-08 15:06:38,861 INFO getting the keyword list
+2017-11-08 15:12:40,677 INFO opening file ./wishlist.txt
+2017-11-08 15:12:40,881 INFO opening file ./wishlist.txt
+2017-11-08 15:13:14,627 INFO opening file ./wishlist.txt
+2017-11-08 15:13:25,562 ERROR not json format
+2017-11-08 15:13:25,562 ERROR not json format
+2017-11-08 15:13:43,114 INFO opening file ./wishlist.txt
+2017-11-08 15:13:45,951 ERROR not json format
+2017-11-08 15:13:45,951 ERROR not json format
+2017-11-08 15:15:21,104 INFO opening file ./wishlist.txt
+2017-11-08 15:15:26,385 INFO opening file ./wishlist.txt
+2017-11-08 15:24:12,290 ERROR not json format
+2017-11-08 15:24:12,290 ERROR not json format
+2017-11-08 15:24:57,223 INFO opening file ./wishlist.txt
+2017-11-08 15:25:14,708 INFO opening file ./wishlist.txt
+2017-11-08 15:25:58,507 INFO opening file ./wishlist.txt
+2017-11-08 15:26:59,581 INFO opening file ./wishlist.txt
+2017-11-08 15:26:59,581 INFO opening file ./wishlist.txt
+2017-11-08 15:26:59,581 INFO opening file ./wishlist.txt
+2017-11-08 15:26:59,581 INFO opening file ./wishlist.txt
+2017-11-08 15:26:59,581 INFO opening file ./wishlist.txt
+2017-11-08 15:27:15,171 INFO opening file ./wishlist.txt
+2017-11-08 15:27:15,171 INFO opening file ./wishlist.txt
+2017-11-08 15:27:15,171 INFO opening file ./wishlist.txt
+2017-11-08 15:27:15,171 INFO opening file ./wishlist.txt
+2017-11-08 15:27:15,171 INFO opening file ./wishlist.txt
+2017-11-08 15:27:48,762 INFO opening file ./wishlist.txt
+2017-11-08 15:27:48,762 INFO opening file ./wishlist.txt
+2017-11-08 15:27:48,762 INFO opening file ./wishlist.txt
+2017-11-08 15:27:48,762 INFO opening file ./wishlist.txt
+2017-11-08 15:27:48,762 INFO opening file ./wishlist.txt
+2017-11-08 15:27:58,149 INFO opening file ./wishlist.txt
+2017-11-08 15:27:58,149 INFO opening file ./wishlist.txt
+2017-11-08 15:27:58,149 INFO opening file ./wishlist.txt
+2017-11-08 15:27:58,149 INFO opening file ./wishlist.txt
+2017-11-08 15:27:58,149 INFO opening file ./wishlist.txt
+2017-11-08 15:28:31,700 INFO opening file ./wishlist.txt
+2017-11-08 15:28:31,700 INFO opening file ./wishlist.txt
+2017-11-08 15:28:31,700 INFO opening file ./wishlist.txt
+2017-11-08 15:28:31,700 INFO opening file ./wishlist.txt
+2017-11-08 15:28:31,700 INFO opening file ./wishlist.txt
+2017-11-08 15:33:08,872 INFO opening file ./wishlist.txt
+2017-11-08 15:33:08,872 INFO opening file ./wishlist.txt
+2017-11-08 15:33:08,872 INFO opening file ./wishlist.txt
+2017-11-08 15:33:08,872 INFO opening file ./wishlist.txt
+2017-11-08 15:33:08,872 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,630 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,630 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,630 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,630 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,630 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,890 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,890 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,890 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,890 INFO opening file ./wishlist.txt
+2017-11-08 15:33:17,890 INFO opening file ./wishlist.txt
+2017-11-08 16:41:12,589 ERROR email server setup failed, quiting....
+2017-11-08 16:41:12,589 ERROR email server setup failed, quiting....
+2017-11-08 16:41:12,589 ERROR email server setup failed, quiting....
+2017-11-08 16:41:12,589 ERROR email server setup failed, quiting....
+2017-11-08 16:41:12,589 ERROR email server setup failed, quiting....
+2017-11-08 16:41:12,589 ERROR email server setup failed, quiting....
+2017-11-08 16:41:12,589 ERROR failed to set up email for user
+2017-11-08 16:41:12,589 ERROR failed to set up email for user
+2017-11-08 16:41:12,589 ERROR failed to set up email for user
+2017-11-08 16:41:12,589 ERROR failed to set up email for user
+2017-11-08 16:41:12,589 ERROR failed to set up email for user
+2017-11-08 16:41:12,589 ERROR failed to set up email for user
+2017-11-08 16:41:12,589 ERROR failed to set up email
+2017-11-08 16:41:12,589 ERROR failed to set up email
+2017-11-08 16:41:12,589 ERROR failed to set up email
+2017-11-08 16:41:12,589 ERROR failed to set up email
+2017-11-08 16:41:12,589 ERROR failed to set up email
+2017-11-08 16:41:12,589 ERROR failed to set up email
+2017-11-08 16:53:01,802 INFO opening file ./wishlist.txt
+2017-11-08 16:53:01,802 INFO opening file ./wishlist.txt
+2017-11-08 16:53:01,802 INFO opening file ./wishlist.txt
+2017-11-08 16:53:01,802 INFO opening file ./wishlist.txt
+2017-11-08 16:53:01,802 INFO opening file ./wishlist.txt
+2017-11-08 16:53:02,068 INFO opening file ./wishlist.txt
+2017-11-08 16:53:02,068 INFO opening file ./wishlist.txt
+2017-11-08 16:53:02,068 INFO opening file ./wishlist.txt
+2017-11-08 16:53:02,068 INFO opening file ./wishlist.txt
+2017-11-08 16:53:02,068 INFO opening file ./wishlist.txt
