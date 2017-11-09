@@ -24,6 +24,8 @@ ADD . /moonbbs/
 WORKDIR /moonbbs/
 RUN pip install -r requirements.txt
 
+RUN yum install python-flask
+
 EXPOSE 5000
 
 CMD ["python", "./moonbbs_spider/server.py"]
