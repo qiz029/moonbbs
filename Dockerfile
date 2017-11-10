@@ -23,8 +23,7 @@ ADD . /moonbbs/
 
 WORKDIR /moonbbs/
 RUN pip install -r requirements.txt
-
-RUN yum install python-flask
+RUN pip install flask
 
 EXPOSE 5000
 
