@@ -1,7 +1,6 @@
 psycopg2==2.7.1
 bs4
 sqlalchemy
-flask
 requests
 Flask==0.12.2
 Flask-RESTful==0.3.6
