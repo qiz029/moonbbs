@@ -5,6 +5,7 @@
         "displayName": "moonbbs",
         "description": "this is moonbbs spider",
         "tenantAware": "false",
+        "helmLocation": "./deployment/helm/moonbbs/",
         "jobManagerInfo": {
         },
         "rbacInfo": {
