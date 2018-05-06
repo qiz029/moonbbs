@@ -30,6 +30,7 @@ class text_repo(object):
         LOG.info('opening file %s'%filename)
         try:
             self.f = open(filename, 'a+')
+            self.r = open(filename, 'r')
             self.filename = filename
         except Exception as e:
             LOG.error('failed to open the file')
@@ -38,7 +39,9 @@ class text_repo(object):
     def get_keyword_list(self):
         keywords = []
         LOG.info('getting the keyword list')
-        for line in self.f:
+
+        for line in self.r:
+            LOG.info("get line {0}".format(line))
             keywords.append(line.rstrip())
 
         keywords = list(set(keywords))

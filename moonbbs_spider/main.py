@@ -30,10 +30,11 @@ class main_service(object):
         if (self.reader == None or self.email_server == None):
             LOG.error("user failed to put in all info, exiting")
             raise Exception('missing info')
-        if (len(reader.get_keyword_list()) == 0):
+        kw = self.reader.get_keyword_list()
+        if (len(kw) == 0):
             LOG.error("no wishes added")
             raise Exception('missing wishes')
     	self.moonbbs_runner = runner(self.interval)
     	self.web_spider = crawler()
-    	kw = self.reader.get_keyword_list()
+        LOG.info("service is about to start")
     	self.moonbbs_runner.on_start(self.web_spider.crawl, kw, self.email_server)

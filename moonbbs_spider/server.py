@@ -87,7 +87,7 @@ def start():
     try:
         service.on_start()
     except Exception as e:
-        LOG.error("stopped for some reason")
+        LOG.error("stopped for some reason {0}".format(e))
         return jsonify({"errorInfo": "Stopped"}), 400
 
 if __name__ == '__main__':

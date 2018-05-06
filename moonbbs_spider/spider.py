@@ -24,6 +24,7 @@ class crawler(object):
 	def crawl(self, keyword=None, email_server=None):
 		LOG.info('start crawling')
 		print('Crawling start!')
+		print(len(keyword))
 		response = urllib2.urlopen(self.url)
 		web = response.read()
 
@@ -39,6 +40,7 @@ class crawler(object):
 			keywords.append(link.text)
 
 			for words in keyword:
+				print str(words)
 				if words in str(link.text):
 					msg = ('Item: %s, Url: %s' % (link.text, link.get('href')))
 					print msg
