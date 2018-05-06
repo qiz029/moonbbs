@@ -29,7 +29,8 @@ class text_repo(object):
     def __init__(self, filename=None):
         LOG.info('opening file %s'%filename)
         try:
-            self.f = open(filename, 'ra+')
+            self.f = open(filename, 'a+')
+            self.filename = filename
         except Exception as e:
             LOG.error('failed to open the file')
             raise e
@@ -49,11 +50,13 @@ class text_repo(object):
         try:
             for wish in wishes:
                 if (wish not in wishes_already):
+                    self.f = open(self.filename, 'a+')
                     self.f.write(wish)
+                    print(wish)
                     self.f.write('\n')
                     wishes_already.append(wish)
         except Exception as e:
-            LOG.error('cannot write in file')
+            LOG.error('cannot write in file because of {0}'.format(e))
             raise e
         finally:
             self.f.flush()

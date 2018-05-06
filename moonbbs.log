@@ -1328,3 +1328,594 @@
 2017-11-09 10:23:09,282 INFO getting the keyword list
 2017-11-09 10:23:09,282 INFO getting the keyword list
 2017-11-09 10:23:09,282 INFO getting the keyword list
+2018-05-05 22:23:51,368 INFO opening file ./wishlist.txt
+2018-05-05 22:23:51,368 INFO opening file ./wishlist.txt
+2018-05-05 22:23:51,368 INFO opening file ./wishlist.txt
+2018-05-05 22:23:51,368 INFO opening file ./wishlist.txt
+2018-05-05 22:23:51,368 INFO opening file ./wishlist.txt
+2018-05-05 22:24:02,929 INFO opening file ./wishlist.txt
+2018-05-05 22:24:02,929 INFO opening file ./wishlist.txt
+2018-05-05 22:24:02,929 INFO opening file ./wishlist.txt
+2018-05-05 22:24:02,929 INFO opening file ./wishlist.txt
+2018-05-05 22:24:02,929 INFO opening file ./wishlist.txt
+2018-05-05 22:24:03,287 INFO opening file ./wishlist.txt
+2018-05-05 22:24:03,287 INFO opening file ./wishlist.txt
+2018-05-05 22:24:03,287 INFO opening file ./wishlist.txt
+2018-05-05 22:24:03,287 INFO opening file ./wishlist.txt
+2018-05-05 22:24:03,287 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,050 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,050 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,050 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,050 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,050 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,419 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,419 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,419 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,419 INFO opening file ./wishlist.txt
+2018-05-05 22:30:29,419 INFO opening file ./wishlist.txt
+2018-05-05 22:30:33,946 INFO getting the keyword list
+2018-05-05 22:30:33,946 INFO getting the keyword list
+2018-05-05 22:30:33,946 INFO getting the keyword list
+2018-05-05 22:30:33,946 INFO getting the keyword list
+2018-05-05 22:30:33,946 INFO getting the keyword list
+2018-05-05 22:30:33,946 INFO getting the keyword list
+2018-05-05 22:30:33,947 ERROR cannot write in file
+2018-05-05 22:30:33,947 ERROR cannot write in file
+2018-05-05 22:30:33,947 ERROR cannot write in file
+2018-05-05 22:30:33,947 ERROR cannot write in file
+2018-05-05 22:30:33,947 ERROR cannot write in file
+2018-05-05 22:30:33,947 ERROR cannot write in file
+2018-05-05 22:30:33,947 ERROR failed to write in wishes
+2018-05-05 22:30:33,947 ERROR failed to write in wishes
+2018-05-05 22:30:33,947 ERROR failed to write in wishes
+2018-05-05 22:30:33,947 ERROR failed to write in wishes
+2018-05-05 22:30:33,947 ERROR failed to write in wishes
+2018-05-05 22:30:33,947 ERROR failed to write in wishes
+2018-05-05 22:31:27,704 INFO opening file ./wishlist.txt
+2018-05-05 22:31:27,704 INFO opening file ./wishlist.txt
+2018-05-05 22:31:27,704 INFO opening file ./wishlist.txt
+2018-05-05 22:31:27,704 INFO opening file ./wishlist.txt
+2018-05-05 22:31:27,704 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,225 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,225 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,225 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,225 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,225 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,564 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,564 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,564 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,564 INFO opening file ./wishlist.txt
+2018-05-05 22:31:31,564 INFO opening file ./wishlist.txt
+2018-05-05 22:31:37,927 INFO me
+2018-05-05 22:31:37,927 INFO me
+2018-05-05 22:31:37,927 INFO me
+2018-05-05 22:31:37,927 INFO me
+2018-05-05 22:31:37,927 INFO me
+2018-05-05 22:31:37,927 INFO me
+2018-05-05 22:31:37,928 INFO what
+2018-05-05 22:31:37,928 INFO what
+2018-05-05 22:31:37,928 INFO what
+2018-05-05 22:31:37,928 INFO what
+2018-05-05 22:31:37,928 INFO what
+2018-05-05 22:31:37,928 INFO what
+2018-05-05 22:31:37,928 INFO iphone
+2018-05-05 22:31:37,928 INFO iphone
+2018-05-05 22:31:37,928 INFO iphone
+2018-05-05 22:31:37,928 INFO iphone
+2018-05-05 22:31:37,928 INFO iphone
+2018-05-05 22:31:37,928 INFO iphone
+2018-05-05 22:31:37,929 INFO getting the keyword list
+2018-05-05 22:31:37,929 INFO getting the keyword list
+2018-05-05 22:31:37,929 INFO getting the keyword list
+2018-05-05 22:31:37,929 INFO getting the keyword list
+2018-05-05 22:31:37,929 INFO getting the keyword list
+2018-05-05 22:31:37,929 INFO getting the keyword list
+2018-05-05 22:31:37,929 ERROR cannot write in file
+2018-05-05 22:31:37,929 ERROR cannot write in file
+2018-05-05 22:31:37,929 ERROR cannot write in file
+2018-05-05 22:31:37,929 ERROR cannot write in file
+2018-05-05 22:31:37,929 ERROR cannot write in file
+2018-05-05 22:31:37,929 ERROR cannot write in file
+2018-05-05 22:31:37,929 ERROR failed to write in wishes
+2018-05-05 22:31:37,929 ERROR failed to write in wishes
+2018-05-05 22:31:37,929 ERROR failed to write in wishes
+2018-05-05 22:31:37,929 ERROR failed to write in wishes
+2018-05-05 22:31:37,929 ERROR failed to write in wishes
+2018-05-05 22:31:37,929 ERROR failed to write in wishes
+2018-05-05 22:32:56,188 INFO opening file ./wishlist.txt
+2018-05-05 22:32:56,188 INFO opening file ./wishlist.txt
+2018-05-05 22:32:56,188 INFO opening file ./wishlist.txt
+2018-05-05 22:32:56,188 INFO opening file ./wishlist.txt
+2018-05-05 22:32:56,188 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,328 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,328 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,328 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,328 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,328 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,679 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,679 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,679 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,679 INFO opening file ./wishlist.txt
+2018-05-05 22:33:41,679 INFO opening file ./wishlist.txt
+2018-05-05 22:33:44,942 INFO getting the keyword list
+2018-05-05 22:33:44,942 INFO getting the keyword list
+2018-05-05 22:33:44,942 INFO getting the keyword list
+2018-05-05 22:33:44,942 INFO getting the keyword list
+2018-05-05 22:33:44,942 INFO getting the keyword list
+2018-05-05 22:33:44,942 INFO getting the keyword list
+2018-05-05 22:33:44,943 ERROR cannot write in file
+2018-05-05 22:33:44,943 ERROR cannot write in file
+2018-05-05 22:33:44,943 ERROR cannot write in file
+2018-05-05 22:33:44,943 ERROR cannot write in file
+2018-05-05 22:33:44,943 ERROR cannot write in file
+2018-05-05 22:33:44,943 ERROR cannot write in file
+2018-05-05 22:33:44,943 ERROR failed to write in wishes
+2018-05-05 22:33:44,943 ERROR failed to write in wishes
+2018-05-05 22:33:44,943 ERROR failed to write in wishes
+2018-05-05 22:33:44,943 ERROR failed to write in wishes
+2018-05-05 22:33:44,943 ERROR failed to write in wishes
+2018-05-05 22:33:44,943 ERROR failed to write in wishes
+2018-05-05 22:33:46,927 INFO getting the keyword list
+2018-05-05 22:33:46,927 INFO getting the keyword list
+2018-05-05 22:33:46,927 INFO getting the keyword list
+2018-05-05 22:33:46,927 INFO getting the keyword list
+2018-05-05 22:33:46,927 INFO getting the keyword list
+2018-05-05 22:33:46,927 INFO getting the keyword list
+2018-05-05 22:33:46,928 ERROR cannot write in file
+2018-05-05 22:33:46,928 ERROR cannot write in file
+2018-05-05 22:33:46,928 ERROR cannot write in file
+2018-05-05 22:33:46,928 ERROR cannot write in file
+2018-05-05 22:33:46,928 ERROR cannot write in file
+2018-05-05 22:33:46,928 ERROR cannot write in file
+2018-05-05 22:33:46,928 ERROR failed to write in wishes
+2018-05-05 22:33:46,928 ERROR failed to write in wishes
+2018-05-05 22:33:46,928 ERROR failed to write in wishes
+2018-05-05 22:33:46,928 ERROR failed to write in wishes
+2018-05-05 22:33:46,928 ERROR failed to write in wishes
+2018-05-05 22:33:46,928 ERROR failed to write in wishes
+2018-05-05 22:33:49,559 INFO getting the keyword list
+2018-05-05 22:33:49,559 INFO getting the keyword list
+2018-05-05 22:33:49,559 INFO getting the keyword list
+2018-05-05 22:33:49,559 INFO getting the keyword list
+2018-05-05 22:33:49,559 INFO getting the keyword list
+2018-05-05 22:33:49,559 INFO getting the keyword list
+2018-05-05 22:33:49,559 ERROR cannot write in file
+2018-05-05 22:33:49,559 ERROR cannot write in file
+2018-05-05 22:33:49,559 ERROR cannot write in file
+2018-05-05 22:33:49,559 ERROR cannot write in file
+2018-05-05 22:33:49,559 ERROR cannot write in file
+2018-05-05 22:33:49,559 ERROR cannot write in file
+2018-05-05 22:33:49,560 ERROR failed to write in wishes
+2018-05-05 22:33:49,560 ERROR failed to write in wishes
+2018-05-05 22:33:49,560 ERROR failed to write in wishes
+2018-05-05 22:33:49,560 ERROR failed to write in wishes
+2018-05-05 22:33:49,560 ERROR failed to write in wishes
+2018-05-05 22:33:49,560 ERROR failed to write in wishes
+2018-05-05 22:33:50,027 INFO getting the keyword list
+2018-05-05 22:33:50,027 INFO getting the keyword list
+2018-05-05 22:33:50,027 INFO getting the keyword list
+2018-05-05 22:33:50,027 INFO getting the keyword list
+2018-05-05 22:33:50,027 INFO getting the keyword list
+2018-05-05 22:33:50,027 INFO getting the keyword list
+2018-05-05 22:33:50,027 ERROR cannot write in file
+2018-05-05 22:33:50,027 ERROR cannot write in file
+2018-05-05 22:33:50,027 ERROR cannot write in file
+2018-05-05 22:33:50,027 ERROR cannot write in file
+2018-05-05 22:33:50,027 ERROR cannot write in file
+2018-05-05 22:33:50,027 ERROR cannot write in file
+2018-05-05 22:33:50,028 ERROR failed to write in wishes
+2018-05-05 22:33:50,028 ERROR failed to write in wishes
+2018-05-05 22:33:50,028 ERROR failed to write in wishes
+2018-05-05 22:33:50,028 ERROR failed to write in wishes
+2018-05-05 22:33:50,028 ERROR failed to write in wishes
+2018-05-05 22:33:50,028 ERROR failed to write in wishes
+2018-05-05 22:33:50,232 INFO getting the keyword list
+2018-05-05 22:33:50,232 INFO getting the keyword list
+2018-05-05 22:33:50,232 INFO getting the keyword list
+2018-05-05 22:33:50,232 INFO getting the keyword list
+2018-05-05 22:33:50,232 INFO getting the keyword list
+2018-05-05 22:33:50,232 INFO getting the keyword list
+2018-05-05 22:33:50,233 ERROR cannot write in file
+2018-05-05 22:33:50,233 ERROR cannot write in file
+2018-05-05 22:33:50,233 ERROR cannot write in file
+2018-05-05 22:33:50,233 ERROR cannot write in file
+2018-05-05 22:33:50,233 ERROR cannot write in file
+2018-05-05 22:33:50,233 ERROR cannot write in file
+2018-05-05 22:33:50,233 ERROR failed to write in wishes
+2018-05-05 22:33:50,233 ERROR failed to write in wishes
+2018-05-05 22:33:50,233 ERROR failed to write in wishes
+2018-05-05 22:33:50,233 ERROR failed to write in wishes
+2018-05-05 22:33:50,233 ERROR failed to write in wishes
+2018-05-05 22:33:50,233 ERROR failed to write in wishes
+2018-05-05 22:34:27,786 INFO opening file ./wishlist.txt
+2018-05-05 22:34:27,786 INFO opening file ./wishlist.txt
+2018-05-05 22:34:27,786 INFO opening file ./wishlist.txt
+2018-05-05 22:34:27,786 INFO opening file ./wishlist.txt
+2018-05-05 22:34:27,786 INFO opening file ./wishlist.txt
+2018-05-05 22:34:30,726 INFO opening file ./wishlist.txt
+2018-05-05 22:34:30,726 INFO opening file ./wishlist.txt
+2018-05-05 22:34:30,726 INFO opening file ./wishlist.txt
+2018-05-05 22:34:30,726 INFO opening file ./wishlist.txt
+2018-05-05 22:34:30,726 INFO opening file ./wishlist.txt
+2018-05-05 22:34:31,066 INFO opening file ./wishlist.txt
+2018-05-05 22:34:31,066 INFO opening file ./wishlist.txt
+2018-05-05 22:34:31,066 INFO opening file ./wishlist.txt
+2018-05-05 22:34:31,066 INFO opening file ./wishlist.txt
+2018-05-05 22:34:31,066 INFO opening file ./wishlist.txt
+2018-05-05 22:34:35,075 INFO whatip
+2018-05-05 22:34:35,075 INFO whatip
+2018-05-05 22:34:35,075 INFO whatip
+2018-05-05 22:34:35,075 INFO whatip
+2018-05-05 22:34:35,075 INFO whatip
+2018-05-05 22:34:35,075 INFO whatip
+2018-05-05 22:34:35,075 INFO macbook
+2018-05-05 22:34:35,075 INFO macbook
+2018-05-05 22:34:35,075 INFO macbook
+2018-05-05 22:34:35,075 INFO macbook
+2018-05-05 22:34:35,075 INFO macbook
+2018-05-05 22:34:35,075 INFO macbook
+2018-05-05 22:34:35,075 INFO mac mini
+2018-05-05 22:34:35,075 INFO mac mini
+2018-05-05 22:34:35,075 INFO mac mini
+2018-05-05 22:34:35,075 INFO mac mini
+2018-05-05 22:34:35,075 INFO mac mini
+2018-05-05 22:34:35,075 INFO mac mini
+2018-05-05 22:34:35,076 INFO getting the keyword list
+2018-05-05 22:34:35,076 INFO getting the keyword list
+2018-05-05 22:34:35,076 INFO getting the keyword list
+2018-05-05 22:34:35,076 INFO getting the keyword list
+2018-05-05 22:34:35,076 INFO getting the keyword list
+2018-05-05 22:34:35,076 INFO getting the keyword list
+2018-05-05 22:34:35,076 ERROR cannot write in file
+2018-05-05 22:34:35,076 ERROR cannot write in file
+2018-05-05 22:34:35,076 ERROR cannot write in file
+2018-05-05 22:34:35,076 ERROR cannot write in file
+2018-05-05 22:34:35,076 ERROR cannot write in file
+2018-05-05 22:34:35,076 ERROR cannot write in file
+2018-05-05 22:34:35,076 ERROR failed to write in wishes
+2018-05-05 22:34:35,076 ERROR failed to write in wishes
+2018-05-05 22:34:35,076 ERROR failed to write in wishes
+2018-05-05 22:34:35,076 ERROR failed to write in wishes
+2018-05-05 22:34:35,076 ERROR failed to write in wishes
+2018-05-05 22:34:35,076 ERROR failed to write in wishes
+2018-05-05 22:34:36,221 INFO whatip
+2018-05-05 22:34:36,221 INFO whatip
+2018-05-05 22:34:36,221 INFO whatip
+2018-05-05 22:34:36,221 INFO whatip
+2018-05-05 22:34:36,221 INFO whatip
+2018-05-05 22:34:36,221 INFO whatip
+2018-05-05 22:34:36,221 INFO macbook
+2018-05-05 22:34:36,221 INFO macbook
+2018-05-05 22:34:36,221 INFO macbook
+2018-05-05 22:34:36,221 INFO macbook
+2018-05-05 22:34:36,221 INFO macbook
+2018-05-05 22:34:36,221 INFO macbook
+2018-05-05 22:34:36,221 INFO mac mini
+2018-05-05 22:34:36,221 INFO mac mini
+2018-05-05 22:34:36,221 INFO mac mini
+2018-05-05 22:34:36,221 INFO mac mini
+2018-05-05 22:34:36,221 INFO mac mini
+2018-05-05 22:34:36,221 INFO mac mini
+2018-05-05 22:34:36,222 INFO getting the keyword list
+2018-05-05 22:34:36,222 INFO getting the keyword list
+2018-05-05 22:34:36,222 INFO getting the keyword list
+2018-05-05 22:34:36,222 INFO getting the keyword list
+2018-05-05 22:34:36,222 INFO getting the keyword list
+2018-05-05 22:34:36,222 INFO getting the keyword list
+2018-05-05 22:34:36,222 ERROR cannot write in file
+2018-05-05 22:34:36,222 ERROR cannot write in file
+2018-05-05 22:34:36,222 ERROR cannot write in file
+2018-05-05 22:34:36,222 ERROR cannot write in file
+2018-05-05 22:34:36,222 ERROR cannot write in file
+2018-05-05 22:34:36,222 ERROR cannot write in file
+2018-05-05 22:34:36,222 ERROR failed to write in wishes
+2018-05-05 22:34:36,222 ERROR failed to write in wishes
+2018-05-05 22:34:36,222 ERROR failed to write in wishes
+2018-05-05 22:34:36,222 ERROR failed to write in wishes
+2018-05-05 22:34:36,222 ERROR failed to write in wishes
+2018-05-05 22:34:36,222 ERROR failed to write in wishes
+2018-05-05 22:38:46,699 INFO opening file ./wishlist.txt
+2018-05-05 22:38:46,699 INFO opening file ./wishlist.txt
+2018-05-05 22:38:46,699 INFO opening file ./wishlist.txt
+2018-05-05 22:38:46,699 INFO opening file ./wishlist.txt
+2018-05-05 22:38:46,699 INFO opening file ./wishlist.txt
+2018-05-05 22:38:47,083 INFO opening file ./wishlist.txt
+2018-05-05 22:38:47,083 INFO opening file ./wishlist.txt
+2018-05-05 22:38:47,083 INFO opening file ./wishlist.txt
+2018-05-05 22:38:47,083 INFO opening file ./wishlist.txt
+2018-05-05 22:38:47,083 INFO opening file ./wishlist.txt
+2018-05-05 22:38:49,714 INFO getting the keyword list
+2018-05-05 22:38:49,714 INFO getting the keyword list
+2018-05-05 22:38:49,714 INFO getting the keyword list
+2018-05-05 22:38:49,714 INFO getting the keyword list
+2018-05-05 22:38:49,714 INFO getting the keyword list
+2018-05-05 22:38:49,714 INFO getting the keyword list
+2018-05-05 22:38:49,715 ERROR cannot write in file
+2018-05-05 22:38:49,715 ERROR cannot write in file
+2018-05-05 22:38:49,715 ERROR cannot write in file
+2018-05-05 22:38:49,715 ERROR cannot write in file
+2018-05-05 22:38:49,715 ERROR cannot write in file
+2018-05-05 22:38:49,715 ERROR cannot write in file
+2018-05-05 22:38:49,716 ERROR failed to write in wishes
+2018-05-05 22:38:49,716 ERROR failed to write in wishes
+2018-05-05 22:38:49,716 ERROR failed to write in wishes
+2018-05-05 22:38:49,716 ERROR failed to write in wishes
+2018-05-05 22:38:49,716 ERROR failed to write in wishes
+2018-05-05 22:38:49,716 ERROR failed to write in wishes
+2018-05-05 22:38:59,849 INFO opening file ./wishlist.txt
+2018-05-05 22:38:59,849 INFO opening file ./wishlist.txt
+2018-05-05 22:38:59,849 INFO opening file ./wishlist.txt
+2018-05-05 22:38:59,849 INFO opening file ./wishlist.txt
+2018-05-05 22:38:59,849 INFO opening file ./wishlist.txt
+2018-05-05 22:40:01,314 INFO opening file ./wishlist.txt
+2018-05-05 22:40:01,314 INFO opening file ./wishlist.txt
+2018-05-05 22:40:01,314 INFO opening file ./wishlist.txt
+2018-05-05 22:40:01,314 INFO opening file ./wishlist.txt
+2018-05-05 22:40:01,314 INFO opening file ./wishlist.txt
+2018-05-05 22:40:04,655 INFO getting the keyword list
+2018-05-05 22:40:04,655 INFO getting the keyword list
+2018-05-05 22:40:04,655 INFO getting the keyword list
+2018-05-05 22:40:04,655 INFO getting the keyword list
+2018-05-05 22:40:04,655 INFO getting the keyword list
+2018-05-05 22:40:04,655 INFO getting the keyword list
+2018-05-05 22:40:04,655 ERROR cannot write in file
+2018-05-05 22:40:04,655 ERROR cannot write in file
+2018-05-05 22:40:04,655 ERROR cannot write in file
+2018-05-05 22:40:04,655 ERROR cannot write in file
+2018-05-05 22:40:04,655 ERROR cannot write in file
+2018-05-05 22:40:04,655 ERROR cannot write in file
+2018-05-05 22:40:04,655 ERROR failed to write in wishes
+2018-05-05 22:40:04,655 ERROR failed to write in wishes
+2018-05-05 22:40:04,655 ERROR failed to write in wishes
+2018-05-05 22:40:04,655 ERROR failed to write in wishes
+2018-05-05 22:40:04,655 ERROR failed to write in wishes
+2018-05-05 22:40:04,655 ERROR failed to write in wishes
+2018-05-05 22:40:06,252 INFO getting the keyword list
+2018-05-05 22:40:06,252 INFO getting the keyword list
+2018-05-05 22:40:06,252 INFO getting the keyword list
+2018-05-05 22:40:06,252 INFO getting the keyword list
+2018-05-05 22:40:06,252 INFO getting the keyword list
+2018-05-05 22:40:06,252 INFO getting the keyword list
+2018-05-05 22:40:06,253 ERROR cannot write in file
+2018-05-05 22:40:06,253 ERROR cannot write in file
+2018-05-05 22:40:06,253 ERROR cannot write in file
+2018-05-05 22:40:06,253 ERROR cannot write in file
+2018-05-05 22:40:06,253 ERROR cannot write in file
+2018-05-05 22:40:06,253 ERROR cannot write in file
+2018-05-05 22:40:06,253 ERROR failed to write in wishes
+2018-05-05 22:40:06,253 ERROR failed to write in wishes
+2018-05-05 22:40:06,253 ERROR failed to write in wishes
+2018-05-05 22:40:06,253 ERROR failed to write in wishes
+2018-05-05 22:40:06,253 ERROR failed to write in wishes
+2018-05-05 22:40:06,253 ERROR failed to write in wishes
+2018-05-05 22:40:22,087 INFO opening file ./wishlist.txt
+2018-05-05 22:40:22,087 INFO opening file ./wishlist.txt
+2018-05-05 22:40:22,087 INFO opening file ./wishlist.txt
+2018-05-05 22:40:22,087 INFO opening file ./wishlist.txt
+2018-05-05 22:40:22,087 INFO opening file ./wishlist.txt
+2018-05-05 22:40:27,235 INFO getting the keyword list
+2018-05-05 22:40:27,235 INFO getting the keyword list
+2018-05-05 22:40:27,235 INFO getting the keyword list
+2018-05-05 22:40:27,235 INFO getting the keyword list
+2018-05-05 22:40:27,235 INFO getting the keyword list
+2018-05-05 22:40:27,235 INFO getting the keyword list
+2018-05-05 22:40:27,235 ERROR cannot write in file
+2018-05-05 22:40:27,235 ERROR cannot write in file
+2018-05-05 22:40:27,235 ERROR cannot write in file
+2018-05-05 22:40:27,235 ERROR cannot write in file
+2018-05-05 22:40:27,235 ERROR cannot write in file
+2018-05-05 22:40:27,235 ERROR cannot write in file
+2018-05-05 22:40:27,236 ERROR failed to write in wishes
+2018-05-05 22:40:27,236 ERROR failed to write in wishes
+2018-05-05 22:40:27,236 ERROR failed to write in wishes
+2018-05-05 22:40:27,236 ERROR failed to write in wishes
+2018-05-05 22:40:27,236 ERROR failed to write in wishes
+2018-05-05 22:40:27,236 ERROR failed to write in wishes
+2018-05-05 22:40:28,655 INFO getting the keyword list
+2018-05-05 22:40:28,655 INFO getting the keyword list
+2018-05-05 22:40:28,655 INFO getting the keyword list
+2018-05-05 22:40:28,655 INFO getting the keyword list
+2018-05-05 22:40:28,655 INFO getting the keyword list
+2018-05-05 22:40:28,655 INFO getting the keyword list
+2018-05-05 22:40:28,655 ERROR cannot write in file
+2018-05-05 22:40:28,655 ERROR cannot write in file
+2018-05-05 22:40:28,655 ERROR cannot write in file
+2018-05-05 22:40:28,655 ERROR cannot write in file
+2018-05-05 22:40:28,655 ERROR cannot write in file
+2018-05-05 22:40:28,655 ERROR cannot write in file
+2018-05-05 22:40:28,655 ERROR failed to write in wishes
+2018-05-05 22:40:28,655 ERROR failed to write in wishes
+2018-05-05 22:40:28,655 ERROR failed to write in wishes
+2018-05-05 22:40:28,655 ERROR failed to write in wishes
+2018-05-05 22:40:28,655 ERROR failed to write in wishes
+2018-05-05 22:40:28,655 ERROR failed to write in wishes
+2018-05-05 22:40:38,838 INFO opening file ./wishlist.txt
+2018-05-05 22:40:38,838 INFO opening file ./wishlist.txt
+2018-05-05 22:40:38,838 INFO opening file ./wishlist.txt
+2018-05-05 22:40:38,838 INFO opening file ./wishlist.txt
+2018-05-05 22:40:38,838 INFO opening file ./wishlist.txt
+2018-05-05 22:40:41,220 INFO getting the keyword list
+2018-05-05 22:40:41,220 INFO getting the keyword list
+2018-05-05 22:40:41,220 INFO getting the keyword list
+2018-05-05 22:40:41,220 INFO getting the keyword list
+2018-05-05 22:40:41,220 INFO getting the keyword list
+2018-05-05 22:40:41,220 INFO getting the keyword list
+2018-05-05 22:40:41,221 ERROR cannot write in file
+2018-05-05 22:40:41,221 ERROR cannot write in file
+2018-05-05 22:40:41,221 ERROR cannot write in file
+2018-05-05 22:40:41,221 ERROR cannot write in file
+2018-05-05 22:40:41,221 ERROR cannot write in file
+2018-05-05 22:40:41,221 ERROR cannot write in file
+2018-05-05 22:40:41,221 ERROR failed to write in wishes
+2018-05-05 22:40:41,221 ERROR failed to write in wishes
+2018-05-05 22:40:41,221 ERROR failed to write in wishes
+2018-05-05 22:40:41,221 ERROR failed to write in wishes
+2018-05-05 22:40:41,221 ERROR failed to write in wishes
+2018-05-05 22:40:41,221 ERROR failed to write in wishes
+2018-05-05 22:41:04,926 INFO opening file ./wishlist.txt
+2018-05-05 22:41:04,926 INFO opening file ./wishlist.txt
+2018-05-05 22:41:04,926 INFO opening file ./wishlist.txt
+2018-05-05 22:41:04,926 INFO opening file ./wishlist.txt
+2018-05-05 22:41:04,926 INFO opening file ./wishlist.txt
+2018-05-05 22:41:07,212 INFO getting the keyword list
+2018-05-05 22:41:07,212 INFO getting the keyword list
+2018-05-05 22:41:07,212 INFO getting the keyword list
+2018-05-05 22:41:07,212 INFO getting the keyword list
+2018-05-05 22:41:07,212 INFO getting the keyword list
+2018-05-05 22:41:07,212 INFO getting the keyword list
+2018-05-05 22:41:07,212 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:07,212 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:07,212 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:07,212 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:07,212 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:07,212 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:07,212 ERROR failed to write in wishes
+2018-05-05 22:41:07,212 ERROR failed to write in wishes
+2018-05-05 22:41:07,212 ERROR failed to write in wishes
+2018-05-05 22:41:07,212 ERROR failed to write in wishes
+2018-05-05 22:41:07,212 ERROR failed to write in wishes
+2018-05-05 22:41:07,212 ERROR failed to write in wishes
+2018-05-05 22:41:09,042 INFO getting the keyword list
+2018-05-05 22:41:09,042 INFO getting the keyword list
+2018-05-05 22:41:09,042 INFO getting the keyword list
+2018-05-05 22:41:09,042 INFO getting the keyword list
+2018-05-05 22:41:09,042 INFO getting the keyword list
+2018-05-05 22:41:09,042 INFO getting the keyword list
+2018-05-05 22:41:09,043 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:09,043 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:09,043 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:09,043 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:09,043 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:09,043 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:41:09,043 ERROR failed to write in wishes
+2018-05-05 22:41:09,043 ERROR failed to write in wishes
+2018-05-05 22:41:09,043 ERROR failed to write in wishes
+2018-05-05 22:41:09,043 ERROR failed to write in wishes
+2018-05-05 22:41:09,043 ERROR failed to write in wishes
+2018-05-05 22:41:09,043 ERROR failed to write in wishes
+2018-05-05 22:47:20,181 INFO opening file ./wishlist.txt
+2018-05-05 22:47:20,181 INFO opening file ./wishlist.txt
+2018-05-05 22:47:20,181 INFO opening file ./wishlist.txt
+2018-05-05 22:47:20,181 INFO opening file ./wishlist.txt
+2018-05-05 22:47:20,181 INFO opening file ./wishlist.txt
+2018-05-05 22:47:26,723 INFO opening file ./wishlist.txt
+2018-05-05 22:47:26,723 INFO opening file ./wishlist.txt
+2018-05-05 22:47:26,723 INFO opening file ./wishlist.txt
+2018-05-05 22:47:26,723 INFO opening file ./wishlist.txt
+2018-05-05 22:47:26,723 INFO opening file ./wishlist.txt
+2018-05-05 22:47:30,577 INFO getting the keyword list
+2018-05-05 22:47:30,577 INFO getting the keyword list
+2018-05-05 22:47:30,577 INFO getting the keyword list
+2018-05-05 22:47:30,577 INFO getting the keyword list
+2018-05-05 22:47:30,577 INFO getting the keyword list
+2018-05-05 22:47:30,577 INFO getting the keyword list
+2018-05-05 22:47:30,578 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:30,578 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:30,578 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:30,578 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:30,578 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:30,578 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:30,578 ERROR failed to write in wishes
+2018-05-05 22:47:30,578 ERROR failed to write in wishes
+2018-05-05 22:47:30,578 ERROR failed to write in wishes
+2018-05-05 22:47:30,578 ERROR failed to write in wishes
+2018-05-05 22:47:30,578 ERROR failed to write in wishes
+2018-05-05 22:47:30,578 ERROR failed to write in wishes
+2018-05-05 22:47:32,135 INFO getting the keyword list
+2018-05-05 22:47:32,135 INFO getting the keyword list
+2018-05-05 22:47:32,135 INFO getting the keyword list
+2018-05-05 22:47:32,135 INFO getting the keyword list
+2018-05-05 22:47:32,135 INFO getting the keyword list
+2018-05-05 22:47:32,135 INFO getting the keyword list
+2018-05-05 22:47:32,135 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:32,135 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:32,135 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:32,135 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:32,135 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:32,135 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:32,135 ERROR failed to write in wishes
+2018-05-05 22:47:32,135 ERROR failed to write in wishes
+2018-05-05 22:47:32,135 ERROR failed to write in wishes
+2018-05-05 22:47:32,135 ERROR failed to write in wishes
+2018-05-05 22:47:32,135 ERROR failed to write in wishes
+2018-05-05 22:47:32,135 ERROR failed to write in wishes
+2018-05-05 22:47:33,190 INFO getting the keyword list
+2018-05-05 22:47:33,190 INFO getting the keyword list
+2018-05-05 22:47:33,190 INFO getting the keyword list
+2018-05-05 22:47:33,190 INFO getting the keyword list
+2018-05-05 22:47:33,190 INFO getting the keyword list
+2018-05-05 22:47:33,190 INFO getting the keyword list
+2018-05-05 22:47:33,191 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:33,191 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:33,191 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:33,191 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:33,191 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:33,191 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:47:33,191 ERROR failed to write in wishes
+2018-05-05 22:47:33,191 ERROR failed to write in wishes
+2018-05-05 22:47:33,191 ERROR failed to write in wishes
+2018-05-05 22:47:33,191 ERROR failed to write in wishes
+2018-05-05 22:47:33,191 ERROR failed to write in wishes
+2018-05-05 22:47:33,191 ERROR failed to write in wishes
+2018-05-05 22:56:15,969 INFO opening file ./wishlist.txt
+2018-05-05 22:56:15,969 INFO opening file ./wishlist.txt
+2018-05-05 22:56:15,969 INFO opening file ./wishlist.txt
+2018-05-05 22:56:15,969 INFO opening file ./wishlist.txt
+2018-05-05 22:56:15,969 INFO opening file ./wishlist.txt
+2018-05-05 22:56:19,966 INFO getting the keyword list
+2018-05-05 22:56:19,966 INFO getting the keyword list
+2018-05-05 22:56:19,966 INFO getting the keyword list
+2018-05-05 22:56:19,966 INFO getting the keyword list
+2018-05-05 22:56:19,966 INFO getting the keyword list
+2018-05-05 22:56:19,966 INFO getting the keyword list
+2018-05-05 22:56:19,967 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:19,967 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:19,967 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:19,967 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:19,967 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:19,967 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:19,967 ERROR failed to write in wishes
+2018-05-05 22:56:19,967 ERROR failed to write in wishes
+2018-05-05 22:56:19,967 ERROR failed to write in wishes
+2018-05-05 22:56:19,967 ERROR failed to write in wishes
+2018-05-05 22:56:19,967 ERROR failed to write in wishes
+2018-05-05 22:56:19,967 ERROR failed to write in wishes
+2018-05-05 22:56:43,206 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,206 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,206 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,206 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,206 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,551 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,551 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,551 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,551 INFO opening file ./wishlist.txt
+2018-05-05 22:56:43,551 INFO opening file ./wishlist.txt
+2018-05-05 22:56:45,355 INFO getting the keyword list
+2018-05-05 22:56:45,355 INFO getting the keyword list
+2018-05-05 22:56:45,355 INFO getting the keyword list
+2018-05-05 22:56:45,355 INFO getting the keyword list
+2018-05-05 22:56:45,355 INFO getting the keyword list
+2018-05-05 22:56:45,355 INFO getting the keyword list
+2018-05-05 22:56:45,356 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:45,356 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:45,356 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:45,356 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:45,356 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:45,356 ERROR cannot write in file because of [Errno 9] Bad file descriptor
+2018-05-05 22:56:45,356 ERROR failed to write in wishes
+2018-05-05 22:56:45,356 ERROR failed to write in wishes
+2018-05-05 22:56:45,356 ERROR failed to write in wishes
+2018-05-05 22:56:45,356 ERROR failed to write in wishes
+2018-05-05 22:56:45,356 ERROR failed to write in wishes
+2018-05-05 22:56:45,356 ERROR failed to write in wishes
+2018-05-05 22:57:50,270 INFO opening file ./wishlist.txt
+2018-05-05 22:57:50,270 INFO opening file ./wishlist.txt
+2018-05-05 22:57:50,270 INFO opening file ./wishlist.txt
+2018-05-05 22:57:50,270 INFO opening file ./wishlist.txt
+2018-05-05 22:57:50,270 INFO opening file ./wishlist.txt
+2018-05-05 22:57:53,094 INFO getting the keyword list
+2018-05-05 22:57:53,094 INFO getting the keyword list
+2018-05-05 22:57:53,094 INFO getting the keyword list
+2018-05-05 22:57:53,094 INFO getting the keyword list
+2018-05-05 22:57:53,094 INFO getting the keyword list
+2018-05-05 22:57:53,094 INFO getting the keyword list
