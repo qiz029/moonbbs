@@ -62,7 +62,7 @@ class email_Notification(object):
             raise e
 
         msg = "Email confirmation: email server setup complete"
-        self.from_mail = username + '@qq.com'
+        self.from_mail = username + '@gmail.com'
         try:
             self.server.sendmail(self.from_mail, self.from_mail, msg)
             LOG.debug('confirmation email sent')

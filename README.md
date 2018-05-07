@@ -1,9 +1,16 @@
 # moonbbs_buyer_spider
+
+## For my girlfriend and best friend
+
 A easy spider that find the item on the latest list
 
 To use this function, one must setup the email address and password in main.py
 
-currenly private
+currenly only works with filesys
+
+TODO:
+- add backend to store wish
+- lively get wish from backend
 
 # Api Contract
 - GET / : "welcome to moonbbs"

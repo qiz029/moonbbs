@@ -9,7 +9,10 @@ class moonbbs_log(object):
         file_handler = logging.FileHandler(filename)
         formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
         file_handler.setFormatter(formatter)
+        console_handler = logging.StreamHandler()
+        console_handler.setFormatter(formatter)
         self.logger.addHandler(file_handler)
+        self.logger.addHandler(console_handler)
         self.logger.setLevel(log_level)
 
     def info(self, msg):

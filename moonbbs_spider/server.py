@@ -6,6 +6,7 @@ from logger import moonbbs_log
 import json
 from repository import text_repo
 from main import main_service
+import socket
 
 writer = text_repo('./wishlist.txt')
 
@@ -66,7 +67,7 @@ def set_email():
         try:
             service.set_email(email, password)
         except Exception as e:
-            LOG.error('failed to set up email')
+            LOG.error('failed to set up email because of {0}'.format(e))
             return jsonify({"errorInfo": "email address set up failed"}), 404
 
         return jsonify({"status": "ok"}), 200
@@ -91,4 +92,4 @@ def start():
         return jsonify({"errorInfo": "Stopped"}), 400
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=80, debug=True)
+    app.run(host="localhost", port=80, debug=True)

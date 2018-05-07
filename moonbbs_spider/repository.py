@@ -29,8 +29,6 @@ class text_repo(object):
     def __init__(self, filename=None):
         LOG.info('opening file %s'%filename)
         try:
-            self.f = open(filename, 'a+')
-            self.r = open(filename, 'r')
             self.filename = filename
         except Exception as e:
             LOG.error('failed to open the file')
@@ -39,6 +37,7 @@ class text_repo(object):
     def get_keyword_list(self):
         keywords = []
         LOG.info('getting the keyword list')
+        self.r = open(self.filename, 'r')
 
         for line in self.r:
             LOG.info("get line {0}".format(line))
@@ -50,10 +49,10 @@ class text_repo(object):
 
     def write_wish(self, wishes):
         wishes_already = self.get_keyword_list()
+        self.f = open(self.filename, 'a+')
         try:
             for wish in wishes:
                 if (wish not in wishes_already):
-                    self.f = open(self.filename, 'a+')
                     self.f.write(wish)
                     print(wish)
                     self.f.write('\n')

@@ -5,14 +5,14 @@ replicaCount: 1
 image:
   repository: gcr.io/animegravity-180607/
   tag: dev
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
 service:
-  name: moonbbs-service
-  type: LoadBalancer
+  name: moonbbs
+  type: ClusterIP
   externalPort: 80
-  internalPort: 5000
+  internalPort: 80
 controller:
-  name: moonbbs-controller
+  name: moonbbs
 ingress:
   enabled: false
   # Used to create Ingress record (should used with service.type: ClusterIP).
