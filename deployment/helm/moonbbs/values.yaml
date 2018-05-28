@@ -9,8 +9,8 @@ image:
 service:
   name: moonbbs
   type: ClusterIP
-  externalPort: 80
-  internalPort: 80
+  externalPort: 3000
+  internalPort: 3000
 controller:
   name: moonbbs
 ingress:

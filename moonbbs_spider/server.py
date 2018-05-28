@@ -5,10 +5,12 @@ import sys
 from logger import moonbbs_log
 import json
 from repository import text_repo
+from repository import jt_repo
 from main import main_service
 import socket
 
-writer = text_repo('./wishlist.txt')
+# writer = text_repo('./wishlist.txt')
+writer = jt_repo()
 
 service = main_service(writer)
 
@@ -81,7 +83,8 @@ def set_interval(interval):
 
 @app.route('/wish', methods=['GET'])
 def get_wish():
-    pass
+    wishes = writer.get_keyword_list()
+    return jsonify(wishes), 200
 
 @app.route('/start', methods=['POST'])
 def start():
@@ -92,4 +95,4 @@ def start():
         return jsonify({"errorInfo": "Stopped"}), 400
 
 if __name__ == '__main__':
-    app.run(host="localhost", port=80, debug=True)
+    app.run(host="localhost", port=3000, debug=True)

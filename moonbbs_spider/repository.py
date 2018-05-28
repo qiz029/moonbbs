@@ -7,6 +7,8 @@ import sqlalchemy
 from sqlalchemy import func as sa_func
 from sqlalchemy import or_
 import sqlalchemy.orm as sa_orm
+from jtSDK.jtClient import client
+from jtSDK import jtException
 
 import sys
 
@@ -88,3 +90,43 @@ class postgres_repo(object):
                 db_conn.close()
 
         return engine
+
+class jt_repo(object):
+
+    def __init__(self, host = "http://localhost", port = "80", seed_index = 2000):
+        self.seed = seed_index
+        try:
+            self.client = client(host, port)
+        except jtException as e:
+            LOG.info("unable to connect to json tore because of {0}".format(e))
+            raise e
+
+        if (self.client.check_if_index_exist(self.seed)):
+            pass
+        else:
+            try:
+                wishes = []
+                data = {"wishes": wishes}
+                self.client.create_index(self.seed, data)
+            except jtException as e:
+                LOG.info("unable to create index in json tore because of {0}".format(e))
+                raise e
+
+    def get_keyword_list(self):
+        # get all indices and process
+        try:
+            data = self.client.get_index(self.seed)
+        except jtException as e:
+            LOG.info("unable to get index tore because of {0}".format(e))
+            return []
+        return data.get("wishes")
+
+    def write_wish(self, wishes):
+        # create index
+        try:
+            data = {"wishes": wishes}
+            self.client.update_index(self.seed, data)
+        except jtException as e:
+            LOG.info("unable to update index tore because of {0}".format(e))
+            raise # -*- coding: utf-8 -*-
+        return True

@@ -24,6 +24,10 @@ ADD . /moonbbs/
 WORKDIR /moonbbs/
 RUN pip install -r requirements.txt
 
-EXPOSE 80
+WORKDIR /moonbbs/dependency/
+RUN pip install jtSDK-0.0.1-py2-none-any.whl
 
+EXPOSE 3000
+
+WORKDIR /moonbbs/
 CMD ["python", "./moonbbs_spider/server.py"]
